@@ -1,4 +1,4 @@
-#!/usr/bin/php
+#!unset TERM && /usr/bin/php
 
 <?php
 
